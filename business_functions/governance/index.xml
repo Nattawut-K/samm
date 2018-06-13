@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on OWASP SAMM</title>
+    <link>https://owaspsamm.org/business_functions/governance/</link>
+    <description>Recent content in Governance on OWASP SAMM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://owaspsamm.org/business_functions/governance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strategy &amp; Metrics</title>
+      <link>https://owaspsamm.org/core/governance/g-strategy-metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://owaspsamm.org/core/governance/g-strategy-metrics/</guid>
+      <description>Proposed Overview     A: Create and Promote B: Measure and Improve     Maturity 1 - Identify objectives and means of measuring effectiveness of the security program Identify organisation drivers as they relate to the organization&amp;rsquo;s risk tolerance Define asset classification in line with the organization&amp;rsquo;s risk profile   Maturity 2 - Establish a unified strategic roadmap for software security within the organization. Publish a unified strategy for application security Set targets and KPI&amp;rsquo;s for measuring the program effectiveness   Maturity 3 - Align security efforts with the relevant organizational indicators and asset values.</description>
+    </item>
+    
+    <item>
+      <title>Policy &amp; Compliance</title>
+      <link>https://owaspsamm.org/core/governance/g-policy-compliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://owaspsamm.org/core/governance/g-policy-compliance/</guid>
+      <description>Proposed Overview     A: Policy and Standards B: Compliance Management     Maturity 1 - Understand governance and compliance drivers relevant to the organization. Determine a security baseline representing organization&amp;rsquo;s policies and standards Identify application compliance obligations   Maturity 2 - Establish application-specific security and compliance requirements. Develop security requirements applicable to all applications Develop application requirements addressing each compliance requirement   Maturity 3 - Measure compliance against policies, standards, and compliance requirements.</description>
+    </item>
+    
+    <item>
+      <title>Education &amp; Guidance</title>
+      <link>https://owaspsamm.org/core/governance/g-education-guidance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://owaspsamm.org/core/governance/g-education-guidance/</guid>
+      <description>Overview     A: Training and Awareness B: Organization and Culture     Maturity 1 - Offer development staff access to resources around the topics of secure programming and deployment. Offer general secure software coding guidance covering OWASP Top 10 Identify a &amp;ldquo;Security Champion&amp;rdquo; within each development team   Maturity 2 - Educate all personnel in the software lifecycle with technology and role-specific guidance on secure development.</description>
+    </item>
+    
+  </channel>
+</rss>
